@@ -1,0 +1,31 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Agbalumo', sans-serif;
+  background: linear-gradient(to bottom, #4e54c8, #8f94fb);
+  color: #fff;
+  font-size: 20px;
+}
+
+
+header {
+  min-height: 126px;
+  background-color: #000;
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
+footer {
+  min-height: 239px;
+  background-color: #000;
+  padding-top: 58px;
+  padding-bottom: 108px;
+}
+
+.container {
+  height: 1290px;
+}
