@@ -1,14 +1,12 @@
-html,
-body {
-  padding: 0;
+* {
+  font-family: 'Nunito', sans-serif;
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  font-family: 'Agbalumo', sans-serif;
-  background: linear-gradient(to bottom, #4e54c8, #8f94fb);
-  color: #fff;
-  font-size: 20px;
+  background-color: #fff;
 }
 
 
@@ -24,8 +22,15 @@ footer {
   background-color: #000;
   padding-top: 58px;
   padding-bottom: 108px;
+  
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
 }
 
 .container {
-  height: 1290px;
+  width: 1290px;
+  margin: 0 auto;
 }
